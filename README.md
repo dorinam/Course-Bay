@@ -2,7 +2,7 @@
 
 Course Bay is a website with information about online courses from Coursera, Treehouse, Edx and Udemy. It is a website created and maintained by Dorina Mihai. It has a personalized Google search engine and it is based on Bootstrap and uses a mix of HTML 5, CSS 3, Font Awesome, Javascript, JQuery, Popper and PHP. I also used Node.js and Git.
 
-![Main page](http://www.project1.dorinamihai.tech/img/coursebay.png)
+![Main page](http://coursebay.dorinamihai.tech/img/coursebay.png)
 
 # Prerequisites 
 
